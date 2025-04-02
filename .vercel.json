@@ -1,0 +1,9 @@
+{
+    "build": {
+      "env": {
+        "ATLASDB_URL":"mongodb+srv://sanketnevase04:5zt5mmHNdQsBllLk@cluster0.2d2g5.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+        "SECRET":"sankyanevase"
+      }
+    }
+  }
+  
